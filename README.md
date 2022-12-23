@@ -15,6 +15,7 @@ Before using the app, user should follow the link in backend/.env.defaults to fi
 ## frontend
 
 cd frontend && yarn
+
 yarn start
 
 ## backend
